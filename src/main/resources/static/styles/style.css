@@ -1,0 +1,44 @@
+body {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.header-image {
+    background-image: url(../images/header.jpg);
+    height: 260px;
+}
+.header-row {
+    height: 130px;
+}
+.header-title {
+    font-size: 5em;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    margin: 0;
+    padding: 10px;
+}
+.header-column {
+    background: rgba(0, 0, 0, 0.5);
+}
+.header-intro {
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    margin: 0;
+    padding: 10px;
+}
+.container-fluid {
+    padding: 0;
+}
+
+.menu-row {
+    padding: 20px;
+}
+.menu-row>div>h3 {
+    margin: 0;
+}
+.menu-row>div>p {
+    margin: 0;
+}
